@@ -3,35 +3,5 @@
         "image": "health_UNT_Health_Shop.jpg",
         "alt": "Visit the merch shop, shpunthealth.com",
         "target": "https://www.shopunthealth.com"
-    },
-    {
-        "image": "health_stock_00_Students_Pose_For_Photo.jpg",
-        "alt": "Students pose for a photo",
-        "target": "https://www.unthsc.edu/"
-    },
-    {
-        "image": "health_stock_01_Students_Huddled_Together.jpg",
-        "alt": "Students huddled together",
-        "target": "https://www.unthsc.edu/"
-    },
-    {
-        "image": "health_stock_02_Students_Walking_Out_Of_Building.jpg",
-        "alt": "Students walking out of a building",
-        "target": "https://www.unthsc.edu/"
-    },
-    {
-        "image": "health_stock_03_Student_Works_with_DNA_Fragments.jpg",
-        "alt": "Student works with DNA fragments",
-        "target": "https://www.unthsc.edu/"
-    },
-    {
-        "image": "health_stock_04_Students_Celebrate_At_Block_Party.jpg",
-        "alt": "Students celebrate at block party",
-        "target": "https://www.unthsc.edu/"
-    },
-    {
-        "image": "health_stock_05_Student_Walks_On_Sidewalk_Under_Redwood_Trees.jpg",
-        "alt": "Student_ walks on sidewalk under redwood_trees",
-        "target": "https://www.unthsc.edu/"
     }
 ]
