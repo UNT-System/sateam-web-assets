@@ -1,14 +1,5 @@
 [
-    {
-        "image": "unt_fall_late_reg.jpg",
-        "alt": "Fall classes are filling up fast - register today! Late registration ends aug. 22. Fall.unt.edu",
-        "target": "https://registration.unt.edu?utm_source=RegistrationFall2025_04&utm_medium=MyUntPagelet&utm_campaign=Fall2025"
-    },
-    {
-        "image": "unt_stock_studentsWalking.jpg",
-        "alt": "bunch of masks everywhere",
-        "target": "https://my.unt.edu"
-    },
+    
     {
         "image": "unt_fraternitySororityLife.jpg",
         "alt": "Fraternity and Sorority Life is about finding your place and your people. Where lifelong friendships and connections are made.",
@@ -23,5 +14,16 @@
         "image": "unt_stock_eagleStatue.jpg",
         "alt": "bunch of students everywhere",
         "target": "https://my.unt.edu"
+    },
+    {
+        "image": "unt_stock_springFlowers.jpg",
+        "alt": "Students walks on sidewalk by flowers under trees.",
+        "target": "https://my.unt.edu"
+    },
+    {
+        "image": "unt_stock_studentsWalking.jpg",
+        "alt": "bunch of masks everywhere",
+        "target": "https://my.unt.edu"
     }
+
 ]
