@@ -10,11 +10,6 @@
     "target": "https://mydegreeaudit.unt.edu?utm_source=uAchieveFall2025_01&utm_medium=MyUntPagelet&utm_campaign=Fall2025"
   },
   {
-    "image": "Protect_Our_Nest_myUNT.png",
-    "alt": "Fraternity and Sorority Life is about finding your place and your people. Where lifelong friendships and connections are made.",
-    "target": "https://studentaffairs.unt.edu/dean-of-students/protect-our-nest.html"
-  },
-  {
     "image": "unt_Raise_Your_Hand_Fall25.png",
     "alt": "Fraternity and Sorority Life is about finding your place and your people. Where lifelong friendships and connections are made.",
     "target": "https://studentaffairs.unt.edu/student-activities-center/programs-and-services/involvement-appointment.html"
@@ -22,6 +17,11 @@
   {
     "image": "unt_stock_studentsWalking.jpg",
     "alt": "Students walk along the sidewalks in front of the Administration building as campus trees turn to beautiful fall colors.",
+    "target": "https://my.unt.edu"
+  },
+  {
+    "image": "unt_stock_fallLeavesTower.jpg",
+    "alt": "McConnell Memorial Tower peaks through trees with multi colored leaves as dusk approaches.",
     "target": "https://my.unt.edu"
   }
 ]
