@@ -1,5 +1,15 @@
 [
   {
+    "image": "unt_go_new_app_feature.jpg",
+    "alt": "Photograph of a hand holding a phone showing a UNT Go screen depicting the page allowing accept or decline of financial aid. Includes the words UNT Go has rolled out a new feature! Now you can accept or decline your financial aid, right from the app! Keep watching for more features coming soon. And if you haven’t downloaded UNT Go yet, what are you waiting for? Includes a QR code linking to https://technology.untsystem.edu/faqs/unt-go/index.php and the words Download Today from your favorite app store! With Apple Store and Google Play buttons.",
+    "target": "https://technology.untsystem.edu/faqs/unt-go/index.php"
+  },
+  {
+    "image": "spring_2026_commencement_reminder.png",
+    "alt": "Photo of the back of a person’s head wearing a jeweled graduation cap featuring the Diving Eagle logo with the words Ready for Spring Commencement? Check you grad app status in your myunt.edu portal. Once approved, RSVP by 5 p.m. April 8 and a QR code linking to https://www.unt.edu/commencement/checklist.html#rsvp",
+    "target": "https://www.unt.edu/commencement/checklist.html#rsvp"
+  },
+  {
     "image": "unt_26_summer1_fin_aid.jpg",
     "alt": "Classes Today. Career Tomorrow. You don’t have to give up your summer to get ahead. See when registration begins for you at registration.unt.edu.",
     "target": "https://registration.unt.edu/summer/index.html?utm_source=RegistrationSummer2026_01&utm_medium=MyUntPagelet&utm_campaign=Summerr2026"
@@ -8,16 +18,6 @@
     "image": "unt_Raise_Your_Hand_Fall25.png",
     "alt": "Fraternity and Sorority Life is about finding your place and your people. Where lifelong friendships and connections are made.",
     "target": "https://studentaffairs.unt.edu/student-activities-center/programs-and-services/involvement-appointment.html"
-  },
-   {
-    "image": "unt_stock_springAdminBuildingWillisLibrary.jpg",
-    "alt": "The UNT Administration building and Willis library mall are resplendent at night illuminated in green lights.",
-    "target": "https://my.unt.edu"
-  },
-  {
-    "image": "unt_stock_eagleStatue.jpg",
-    "alt": "The bronze soaring eagle statue encircled by beautiful golden fall leaves.",
-    "target": "https://my.unt.edu"
   },
   {
     "image": "unt_stock_springFlowers.jpg",
