@@ -15,13 +15,13 @@
     "target": "https://technology.untsystem.edu/faqs/unt-go/index.php"
   },
   {
-    "image": "unt_Raise_Your_Hand_Fall25.png",
-    "alt": "Fraternity and Sorority Life is about finding your place and your people. Where lifelong friendships and connections are made.",
-    "target": "https://studentaffairs.unt.edu/student-activities-center/programs-and-services/involvement-appointment.html"
-  },
-  {
     "image": "Global_Accelerator_Pagelet.jpg",
     "alt": "UNT Global Career Accelerator. Earn 6 credit hours 100% online this summer with the UNT Global Career Accelerator course! Build your resume and gain meaningful career experience with leading multinational companies. Learn more at careeraccelerator.unt.edu",
     "target": "https://www.careeraccelerator.unt.edu?utm_source=CareerAcceleratorSummer2026_01&utm_medium=MyUntPagelet&utm_campaign=Summer2026&utm_content=Pagelet"
+  },
+  {
+    "image": "unt_stock_eagleStatue.jpg",
+    "alt": "The bronze soaring eagle statue encircled by beautiful golden fall leaves.",
+    "target": "https://my.unt.edu"
   }
 ]
