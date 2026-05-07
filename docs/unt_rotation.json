@@ -1,7 +1,7 @@
 [
   {
-    "image": "Summer_2026_Pagelet_2.jpg",
-    "alt": "Classes Today. Career Tomorrow. Register today for our 3W1, 5W1 or 10W Summer Session! With flexible scheduling you can enjoy your summer while you stay on track or get ahead. Registration.unt.edu",
+    "image": "unt_Summer_2026_Pagelet_3.jpg",
+    "alt": "Classes Today. Career Tomorrow. Register today for summer classes! With flexible scheduling and four Summer Sessions remaining, enjoy your summer AND get ahead. Registration.unt.edu",
     "target": "https://registration.unt.edu/summer/index.html?utm_source=RegistrationSummer2026_02&utm_medium=MyUntPagelet&utm_campaign=Summerr2026"
   },
   {
@@ -15,12 +15,13 @@
     "target": "https://technology.untsystem.edu/faqs/unt-go/index.php"
   },
   {
-    "image": "finals_countdown.png",
-    "alt": "Graphic with a green background announcing Finals Week Begins May 2 at the top. On the left, white text reads: The end‑of‑semester stretch can feel like a lot. Youre not alone. Lean into the campus resources to help you stay focused and finish the semester strong. On the right, a list of events includes: Late Night Study Break, April 27, 58 p.m.; Late Night Breakfast, April 28, 911 p.m.; Destress Fest, April 29  30, 11 a.m.2 p.m. A QR code appears at the bottom right with text reading Scan for more resources and the URL unt.edu/scrappysfinalscountdown. The bottom left displays the UNT Division of Student Affairs logo. A blurred background image shows a relaxation station sign and activity materials.",
-    "target": "https://my.unt.edu"
-  },
-  {
     "image": "Global_Accelerator_Pagelet.jpg",
     "alt": "UNT Global Career Accelerator. Earn 6 credit hours 100% online this summer with the UNT Global Career Accelerator course! Build your resume and gain meaningful career experience with leading multinational companies. Learn more at careeraccelerator.unt.edu",
     "target": "https://www.careeraccelerator.unt.edu?utm_source=CareerAcceleratorSummer2026_01&utm_medium=MyUntPagelet&utm_campaign=Summer2026&utm_content=Pagelet"
-  }]
+  },
+  {
+    "image": "unt_stock_springFlowers.jpg",
+    "alt": "Students walks on sidewalk by flowers under trees.",
+    "target": "https://my.unt.edu"
+  }
+]
