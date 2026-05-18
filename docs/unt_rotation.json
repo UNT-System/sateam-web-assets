@@ -10,6 +10,11 @@
     "target": "https://registration.unt.edu?utm_source=RegistrationFall2026_03&utm_medium=MyUntPagelet&utm_campaign=Fall2026"
   },
   {
+    "image": "unt_untGo_May_2026.jpg",
+    "alt": "Photograph of a hand holding a phone showing a UNT Go screen depicting the page allowing payment of a tuition bill. Includes the words UNT Go has rolled out a new feature! Now you can use the UNT Go app to pay your tuition bill. Keep watching for more features coming soon. Includes a QR code linking to https://technology.untsystem.edu/faqs/unt-go/index.php and the words Download Today from your favorite app store! With Apple Store and Google Play buttons.",
+    "target": "https://technology.untsystem.edu/faqs/unt-go/index.php"
+  },
+  {
     "image": "unt_stock_springAdminBuildingWillisLibrary.jpg",
     "alt": "The UNT Administration building and Willis library mall are resplendent at night illuminated in green lights.",
     "target": "https://my.unt.edu"
@@ -17,11 +22,6 @@
   {
     "image": "unt_stock_springFlowers.jpg",
     "alt": "Students walks on sidewalk by flowers under trees.",
-    "target": "https://my.unt.edu"
-  },
-  {
-    "image": "unt_stock_eagleStatue.jpg",
-    "alt": "The bronze soaring eagle statue encircled by beautiful golden fall leaves.",
     "target": "https://my.unt.edu"
   }
 ]
