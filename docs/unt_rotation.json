@@ -1,5 +1,10 @@
 [
-   {
+  {
+    "image": "unt_Spring_2027_Registration_Pagelet_1.jpg",
+    "alt": "Turn Today’s Classes into Tomorrow’s Career. Registration is now open for Spring ’27! Check when it opens for you and register early. registration.unt.edu",
+    "target": "https://registration.unt.edu?utm_source=RegistrationSpring2027_01&utm_medium=MyUntPagelet&utm_campaign=Spring2027"
+  },
+  {
     "image": "unt_2026_Fall_8W2_Pagelet_updated.jpg",
     "alt": "Give your semester a boost with an 8 week class! Visit the Schedule of Classes page to learn how to search and register for courses. Make the most of your fall semester. Classes start Oct. 12.",
     "target": "https://registrar.unt.edu/registration/schedule-of-classes.html?utm_source=Registration8W2_02&utm_medium=MyUntPagelet&utm_campaign=8W2"
@@ -17,11 +22,6 @@
   {
     "image": "unt_stock_studentsWalking.jpg",
     "alt": "Students walk along the sidewalks in front of the Administration building as campus trees turn to beautiful fall colors.",
-    "target": "https://my.unt.edu"
-  },
-  {
-    "image": "unt_stock_eagleStatue.jpg",
-    "alt": "The bronze soaring eagle statue encircled by beautiful golden fall leaves.",
     "target": "https://my.unt.edu"
   }
 ]
