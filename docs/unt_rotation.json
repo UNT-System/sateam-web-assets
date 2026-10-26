@@ -10,11 +10,6 @@
     "target": "https://www.unt.edu/commencement/checklist.html#rsvp"
   },
   {
-    "image": "Grad-School-Preview_Fall26.jpg",
-    "alt": "Two students dressed in professional attire. Text overlay: Your next step, powered by UNT. UNT grad school preview 8:30 A.M. – 3 P.M., Saturday, Oct. 24. Register now: gradpreview.unt.edu",
-    "target": "https://www.unt.edu/admissions/events/grad-preview.html?utm_source=GSP_01&utm_medium=MyUntPagelet&utm_campaign=GSPFall2026"
-  },
-  {
     "image": "Early_Fall_2026_UNT_Go_Promos.jpg",
     "alt": "Image of a hand holding a smartphone with the UNT Go icon visible and enlarged. Also, QR codes for the Apple App Store and Google Play. Text reads: Get UNT Go Now! Download and use UNT Go to help you succeed this semester! UNT Go can help with: - Clsss schedules - Campus events - Financial aid - And more — all in one app!",
     "target": "https://technology.untsystem.edu/faqs/unt-go/index.php "
@@ -22,6 +17,11 @@
   {
     "image": "unt_stock_fallAdminBuilding.jpg",
     "alt": "Students cross the sidewalks in front of the Administration building as campus trees turn to golden fall colors.",
+    "target": "https://my.unt.edu"
+  },
+  {
+    "image": "unt_stock_fallLeavesTower.jpg",
+    "alt": "The UNT tower framed by fall leaves in a variety of colors.",
     "target": "https://my.unt.edu"
   }
 ]
